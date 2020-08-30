@@ -1,0 +1,16 @@
+INFO  started: Metals version 0.8.4 in workspace 'D:\trabalhos\Arcabouco\scala'
+INFO  time: initialize in 2.05s
+WARN  no build tool detected in workspace 'D:\trabalhos\Arcabouco\scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: D:\trabalhos\Arcabouco\scala\basic.scala
+INFO  no build target: using presentation compiler with only scala-library
+abr 12, 2020 7:38:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+abr 12, 2020 7:38:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+abr 12, 2020 7:38:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+abr 12, 2020 7:39:34 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: null
+WARN  no build target for: D:\trabalhos\Arcabouco\scala\basic.scala
+WARN  no build target for: D:\trabalhos\Arcabouco\scala\basic.scala
+INFO  shutting down Metals

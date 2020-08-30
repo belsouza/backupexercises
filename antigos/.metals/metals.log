@@ -1,0 +1,314 @@
+INFO  started: Metals version 0.8.0 in workspace 'J:\exercicios'
+INFO  time: initialize in 1.9s
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: J:\exercicios\media.scala
+INFO  no build target: using presentation compiler with only scala-library
+jan 29, 2020 11:09:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+jan 29, 2020 11:09:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+jan 29, 2020 11:09:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+jan 29, 2020 11:09:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+jan 29, 2020 11:09:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+jan 29, 2020 11:09:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+jan 29, 2020 11:09:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+jan 29, 2020 11:09:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33
+jan 29, 2020 11:09:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36
+jan 29, 2020 11:09:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37
+jan 29, 2020 11:09:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39
+jan 29, 2020 11:09:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42
+jan 29, 2020 11:09:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 46
+jan 29, 2020 11:09:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 48
+jan 29, 2020 11:09:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 47
+jan 29, 2020 11:09:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 44
+WARN  no build target for: J:\exercicios\media.scala
+something's wrong: no file:///j%3A/exercicios/media.scala in Array[<error>]RangePosition(file:///j%3A/exercicios/media.scala, 146, 146, 161)
+something's wrong: no file:///j%3A/exercicios/media.scala in Array[<error>]RangePosition(file:///j%3A/exercicios/media.scala, 146, 146, 154)
+something's wrong: no file:///j%3A/exercicios/media.scala in Array[<error>]RangePosition(file:///j%3A/exercicios/media.scala, 146, 146, 155)
+something's wrong: no file:///j%3A/exercicios/media.scala in Array[<error>]RangePosition(file:///j%3A/exercicios/media.scala, 146, 146, 156)
+something's wrong: no file:///j%3A/exercicios/media.scala in Array[<error>]RangePosition(file:///j%3A/exercicios/media.scala, 146, 146, 157)
+something's wrong: no file:///j%3A/exercicios/media.scala in Array[<error>]RangePosition(file:///j%3A/exercicios/media.scala, 146, 146, 158)
+something's wrong: no file:///j%3A/exercicios/media.scala in Array[String]RangePosition(file:///j%3A/exercicios/media.scala, 146, 146, 159)
+WARN  no build target for: J:\exercicios\media.scala
+WARN  no build target for: J:\exercicios\media.scala
+jan 30, 2020 1:45:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 689
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.0 in workspace 'J:\exercicios'
+INFO  time: initialize in 1.54s
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+ERROR status bar tick failed
+java.lang.NullPointerException
+	at scala.meta.internal.metals.StatusBar.tickUnsafe(StatusBar.scala:146)
+	at scala.meta.internal.metals.StatusBar.tick(StatusBar.scala:124)
+	at scala.meta.internal.metals.StatusBar.tickIfHidden(StatusBar.scala:214)
+	at scala.meta.internal.metals.StatusBar.addMessage(StatusBar.scala:105)
+	at scala.meta.internal.metals.Warnings.noBuildTool(Warnings.scala:114)
+	at scala.meta.internal.metals.MetalsLanguageServer.supportedBuildTool(MetalsLanguageServer.scala:1323)
+	at scala.meta.internal.metals.MetalsLanguageServer.slowConnectToBuildServer(MetalsLanguageServer.scala:1331)
+	at scala.meta.internal.metals.MetalsLanguageServer.initialized(MetalsLanguageServer.scala:598)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:830)
+
+WARN  no build target for: J:\exercicios\media.scala
+INFO  started: Metals version 0.8.0 in workspace 'J:\exercicios'
+INFO  time: initialize in 1.54s
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: J:\exercicios\media_tres.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: J:\exercicios\media_tres.scala
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.0 in workspace 'J:\exercicios'
+INFO  time: initialize in 5.49s
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.0 in workspace 'J:\exercicios'
+INFO  time: initialize in 1.52s
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: J:\exercicios\dif.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: J:\exercicios\dif.scala
+something's wrong: no file:///j%3A/exercicios/dif.scala in Array[<error>]RangePosition(file:///j%3A/exercicios/dif.scala, 111, 111, 126)
+something's wrong: no file:///j%3A/exercicios/dif.scala in Array[<error>]RangePosition(file:///j%3A/exercicios/dif.scala, 111, 111, 119)
+something's wrong: no file:///j%3A/exercicios/dif.scala in Array[<error>]RangePosition(file:///j%3A/exercicios/dif.scala, 111, 111, 120)
+something's wrong: no file:///j%3A/exercicios/dif.scala in Array[<error>]RangePosition(file:///j%3A/exercicios/dif.scala, 111, 111, 121)
+something's wrong: no file:///j%3A/exercicios/dif.scala in Array[String]RangePosition(file:///j%3A/exercicios/dif.scala, 111, 111, 124)
+WARN  no build target for: J:\exercicios\dif.scala
+WARN  no build target for: J:\exercicios\dif.scala
+fev 01, 2020 11:58:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 722
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+fev 01, 2020 3:44:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 732
+INFO  started: Metals version 0.8.0 in workspace 'J:\exercicios'
+INFO  time: initialize in 1.28s
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: J:\exercicios\salario.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.0 in workspace 'J:\exercicios'
+INFO  time: initialize in 2.18s
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: J:\exercicios\salario.scala
+fev 04, 2020 3:30:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+fev 04, 2020 3:30:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.0 in workspace 'J:\exercicios'
+INFO  time: initialize in 1.43s
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: J:\exercicios\salario.scala
+fev 05, 2020 9:24:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+fev 05, 2020 9:24:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+fev 05, 2020 9:24:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+fev 05, 2020 9:24:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+INFO  no build target: using presentation compiler with only scala-library
+fev 05, 2020 9:24:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+fev 05, 2020 9:24:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+fev 05, 2020 9:24:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25
+fev 05, 2020 9:24:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 35
+something's wrong: no file:///j%3A/exercicios/salario.scala in Array[<error>]RangePosition(file:///j%3A/exercicios/salario.scala, 113, 113, 128)
+something's wrong: no file:///j%3A/exercicios/salario.scala in Array[<error>]RangePosition(file:///j%3A/exercicios/salario.scala, 113, 113, 121)
+something's wrong: no file:///j%3A/exercicios/salario.scala in Array[<error>]RangePosition(file:///j%3A/exercicios/salario.scala, 113, 113, 122)
+something's wrong: no file:///j%3A/exercicios/salario.scala in Array[<error>]RangePosition(file:///j%3A/exercicios/salario.scala, 113, 113, 123)
+something's wrong: no file:///j%3A/exercicios/salario.scala in Array[<error>]RangePosition(file:///j%3A/exercicios/salario.scala, 113, 113, 124)
+something's wrong: no file:///j%3A/exercicios/salario.scala in Array[<error>]RangePosition(file:///j%3A/exercicios/salario.scala, 113, 113, 125)
+something's wrong: no file:///j%3A/exercicios/salario.scala in Array[<error>]RangePosition(file:///j%3A/exercicios/salario.scala, 113, 113, 126)
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: J:\exercicios\salario.scala
+fev 05, 2020 9:26:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 573
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: J:\exercicios\salario.scala
+something's wrong: no file:///j%3A/exercicios/salario.scala in Array[String]RangePosition(file:///j%3A/exercicios/salario.scala, 113, 113, 126)
+WARN  no build target for: J:\exercicios\salario.scala
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: J:\exercicios\salario.scala
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: J:\exercicios\salario.scala
+WARN  no build target for: J:\exercicios\salario.scala
+fev 06, 2020 1:42:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 714
+fev 06, 2020 1:42:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 718
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Exception in thread "pool-5-thread-1" WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+java.lang.InterruptedException
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:27)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:196)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+fev 06, 2020 1:42:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 722
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+fev 06, 2020 1:44:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 730
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.0 in workspace 'J:\exercicios'
+INFO  time: initialize in 1.92s
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: J:\exercicios\bonus.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.0 in workspace 'J:\exercicios'
+INFO  time: initialize in 2.53s
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: J:\exercicios\bonus.scala
+INFO  no build target: using presentation compiler with only scala-library
+fev 08, 2020 7:13:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+fev 08, 2020 7:13:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+fev 08, 2020 7:13:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+fev 08, 2020 7:13:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+fev 08, 2020 7:13:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+fev 08, 2020 7:14:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.InterruptedException
+java.util.concurrent.CompletionException: java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2144)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:27)
+	at scala.meta.pc.OffsetParams.checkCanceled(OffsetParams.java:29)
+	at scala.meta.internal.metals.CompilerOffsetParams.checkCanceled(CompilerOffsetParams.scala:7)
+	at scala.meta.internal.pc.CompletionProvider.$anonfun$completions$1(CompletionProvider.scala:66)
+	at scala.collection.Iterator$$anon$10.next(Iterator.scala:459)
+	at scala.collection.Iterator.toStream(Iterator.scala:1415)
+	at scala.collection.Iterator.toStream$(Iterator.scala:1414)
+	at scala.collection.AbstractIterator.toStream(Iterator.scala:1429)
+	at scala.collection.Iterator.$anonfun$toStream$1(Iterator.scala:1415)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1171)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1161)
+	at scala.collection.immutable.StreamIterator.$anonfun$next$1(Stream.scala:1061)
+	at scala.collection.immutable.StreamIterator$LazyCell.v$lzycompute(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator$LazyCell.v(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator.hasNext(Stream.scala:1055)
+	at scala.collection.convert.Wrappers$IteratorWrapper.hasNext(Wrappers.scala:31)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:134)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:40)
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.write(TypeAdapterRuntimeTypeWrapper.java:69)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1.write(ReflectiveTypeAdapterFactory.java:125)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.write(ReflectiveTypeAdapterFactory.java:243)
+	at com.google.gson.Gson.toJson(Gson.java:669)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:423)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:55)
+	at com.google.gson.Gson.toJson(Gson.java:669)
+	at com.google.gson.Gson.toJson(Gson.java:648)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:145)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:140)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:59)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.lambda$handleRequest$1(RemoteEndpoint.java:281)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714)
+	... 8 more
+
+WARN  no build target for: J:\exercicios\bonus.scala
+something's wrong: no file:///j%3A/exercicios/bonus.scala in Array[<error>]RangePosition(file:///j%3A/exercicios/bonus.scala, 147, 147, 162)
+something's wrong: no file:///j%3A/exercicios/bonus.scala in Array[<error>]RangePosition(file:///j%3A/exercicios/bonus.scala, 147, 147, 155)
+something's wrong: no file:///j%3A/exercicios/bonus.scala in Array[<error>]RangePosition(file:///j%3A/exercicios/bonus.scala, 147, 147, 156)
+something's wrong: no file:///j%3A/exercicios/bonus.scala in Array[<error>]RangePosition(file:///j%3A/exercicios/bonus.scala, 147, 147, 157)
+something's wrong: no file:///j%3A/exercicios/bonus.scala in Array[String]RangePosition(file:///j%3A/exercicios/bonus.scala, 147, 147, 160)
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: J:\exercicios\bonus.scala
+WARN  no build target for: J:\exercicios\bonus.scala
+INFO  started: Metals version 0.8.0 in workspace 'J:\exercicios'
+INFO  time: initialize in 1.87s
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: J:\exercicios\calculosimples.scala
+fev 09, 2020 10:54:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+fev 09, 2020 10:54:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+fev 09, 2020 10:55:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.0 in workspace 'J:\exercicios'
+INFO  time: initialize in 1.73s
+WARN  no build tool detected in workspace 'J:\exercicios'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
